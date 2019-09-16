@@ -1,0 +1,8 @@
+*node_modules/*
+*cypress/videos/
+*cypress/fixtures/
+*cypress/plugins/
+*cypress/support/
+*cypress/integration/examples/
+cypress.json
+package-lock.json
